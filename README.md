@@ -55,7 +55,7 @@ answer.
 
 ## Screenshots of the app
 
-<img src="Screenshots/screenshot2.png" height="640" width="300"></img>
-<img src="Screenshots/screenshot1.png" height="640" width="300"></img>
-<img src="Screenshots/screenshot3.png" height="640" width="300"></img>
-<img src="Screenshots/screenshot4.png" height="640" width="300"></img>
+<img src="Screenshots/screenshot2.png" height="620" width="300"></img>
+<img src="Screenshots/screenshot1.png" height="620" width="300"></img>
+<img src="Screenshots/screenshot3.png" height="620" width="300"></img>
+<img src="Screenshots/screenshot4.png" height="620" width="300"></img>
