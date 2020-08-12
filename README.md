@@ -48,5 +48,5 @@ answer.
 - Backend Dashboard
 - See results for each question
 - Can create users there and access levels
-- Developed in HTML, React, React Native, PHP, CSS3, EXPO.IO
+- Developed in React Native, PHP, CSS3, HTML, EXPO.IO
 - Cross-platform App 
