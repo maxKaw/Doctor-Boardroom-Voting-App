@@ -1,6 +1,6 @@
 # Doctor Boardroom Voting App
 
-University project. Achieved grade 96%.
+University project. Achieved grade 94%.
 
 ## Details of the task
 
