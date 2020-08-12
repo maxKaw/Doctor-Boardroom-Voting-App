@@ -1,4 +1,4 @@
-# Doctor-Boardroom-Voting-App
+# Doctor Boardroom Voting App
 
 University project. Achieved grade 97%.
 
