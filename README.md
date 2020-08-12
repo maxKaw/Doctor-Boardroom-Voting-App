@@ -1,6 +1,8 @@
 # Doctor-Boardroom-Voting-App
 
-## Detail of the task
+University project. Achieved grade 97%.
+
+## Details of the task
 
 The use of computers, computation and mobile electronic devices is becoming standard practice
 within health service environments. Clinicians are now routinely using tablets and other mobile
