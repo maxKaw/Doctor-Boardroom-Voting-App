@@ -52,3 +52,10 @@ answer.
 - Can create users there and access levels
 - Developed in React Native, PHP, CSS3, HTML, EXPO.IO
 - Cross-platform App 
+
+## Screenshots of the app
+
+<img src="Screenshots/screenshot2.png" height="640" width="300"></img>
+<img src="Screenshots/screenshot1.png" height="640" width="300"></img>
+<img src="Screenshots/screenshot3.png" height="640" width="300"></img>
+<img src="Screenshots/screenshot4.png" height="640" width="300"></img>
